@@ -1,6 +1,6 @@
 # Repository Sample
 
-Este é um repositório de exemplo criado para demonstrar o uso do GitHub. 
+Este é um repositório de exemplo criado para demonstrar o uso do GitHub.
 
 ## Uso
 
