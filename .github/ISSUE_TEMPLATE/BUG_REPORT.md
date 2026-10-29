@@ -4,7 +4,6 @@ about: Crie um relatório para nos ajudar a melhorar
 title: "[BUG]"
 labels: bug
 assignees: nataliagranato
-
 ---
 
 ## Descrição
@@ -18,6 +17,7 @@ Se aplicável, adicione capturas de tela para ajudar a explicar o problema.
 ## Ambiente
 
 - **Método de Execução**:
+
   - [ ] Kubernetes com manifestos
   - [ ] Kubernetes com Helm
   - [ ] Docker localmente

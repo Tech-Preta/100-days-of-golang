@@ -2,8 +2,8 @@
 
 ## Versões Suportadas
 
-| Versão  | Suporte          |
-| ------- | ---------------- |
+| Versão | Suporte            |
+| ------ | ------------------ |
 | 0.0.0  | :white_check_mark: |
 
 ## Reportando Vulnerabilidades
@@ -11,7 +11,7 @@
 Agradecemos seu interesse em ajudar a manter nosso projeto seguro. Se você descobrir uma vulnerabilidade de segurança, por favor:
 
 1. **Não crie uma Issue pública** - Vulnerabilidades de segurança não devem ser discutidas publicamente
-2. **Envie um e-mail** para [contato@nataliagranato.xyz]
+2. **Envie um email** para [contato@nataliagranato.xyz]
 3. **Inclua detalhes**:
    - Descrição clara da vulnerabilidade
    - Passos para reproduzir
@@ -34,7 +34,6 @@ Este projeto segue as seguintes práticas:
 - 🔒 Code Review obrigatório para todas as alterações
 - 🔄 Atualizações automáticas via Dependabot
 - 🛡️ Análise de código com CodeQL
-
 
 ## Ferramentas de Segurança
 

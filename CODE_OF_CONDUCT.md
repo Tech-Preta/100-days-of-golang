@@ -1,9 +1,9 @@
-
 # Código de Conduta de Colaboração
 
 ## Meu compromisso
 
-Como participante, colaboradora e líder de comunidade, me comprometo a fazer com que a participação em meus projetos seja uma experiência livre de assédio para todas as pessoas, independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, casta, religião ou identidade e orientação sexuais.
+Como participante, colaboradora e líder de comunidade, me comprometo a fazer com que a participação em meus projetos seja uma experiência livre de assédio para todas as pessoas,
+independentemente de idade, tamanho do corpo, deficiência aparente ou não aparente, etnia, características sexuais, identidade ou expressão de gênero, nível de experiência, educação, situação sócio-econômica, nacionalidade, aparência pessoal, raça, casta, religião ou identidade e orientação sexuais.
 
 Comprometemo-me a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora, diversificada, inclusiva e saudável.
 
@@ -11,19 +11,19 @@ Comprometemo-me a agir e interagir de maneiras que contribuam para uma comunidad
 
 Exemplos de comportamentos que contribuem para criar um ambiente positivo:
 
-* Demonstrar empatia e bondade com as outras pessoas
-* Respeitar opiniões, pontos de vista e experiências contrárias
-* Dar e receber feedbacks construtivos de maneira respeitosa
-* Assumir responsabilidade, pedir desculpas às pessoas afetadas por nossos erros e aprender com a experiência
-* Focar no que é melhor não só para nós individualmente, mas para a comunidade em geral
+- Demonstrar empatia e bondade com as outras pessoas
+- Respeitar opiniões, pontos de vista e experiências contrárias
+- Dar e receber feedbacks construtivos de maneira respeitosa
+- Assumir responsabilidade, pedir desculpas às pessoas afetadas por nossos erros e aprender com a experiência
+- Focar no que é melhor não só para nós individualmente, mas para a comunidade em geral
 
 Exemplos de comportamentos inaceitáveis incluem:
 
-* Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de qualquer natureza
-* Comentários insultuosos/depreciativos e ataques pessoais ou políticos (Trolling)
-* Assédio público ou privado
-* Publicar informações particulares de outras pessoas, como um endereço de e-mail ou endereço físico, sem a permissão explícita delas
-* Outras condutas que são normalmente consideradas inapropriadas em um ambiente profissional
+- Uso de linguagem ou imagens sexualizadas, bem como o assédio sexual ou de qualquer natureza
+- Comentários insultuosos/depreciativos e ataques pessoais ou políticos (Trolling)
+- Assédio público ou privado
+- Publicar informações particulares de outras pessoas, como um endereço de email ou endereço físico, sem a permissão explícita delas
+- Outras condutas que são normalmente consideradas inapropriadas em um ambiente profissional
 
 ## Aplicação de responsabilidades
 
@@ -33,7 +33,7 @@ A liderança tem o direito e a responsabilidade de remover, editar ou rejeitar c
 
 ## Escopo
 
-Este Código de Conduta se aplica dentro de todos os espaços. Exemplos de representação incluem usar um endereço de e-mail oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
+Este Código de Conduta se aplica dentro de todos os espaços. Exemplos de representação incluem usar um endereço de email oficial, postar em contas oficiais de mídias sociais ou atuar como uma pessoa indicada como representante em um evento online ou offline.
 
 ## Aplicação
 
@@ -55,7 +55,8 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 
 **Impacto na comunidade**: Violação por meio de um incidente único ou atitudes repetidas.
 
-**Consequência**: Advertência com consequências para comportamento repetido. Não poderá haver interações com as pessoas envolvidas, incluindo interações não solicitadas com as pessoas que estiverem aplicando o Código de Conduta, por um período determinado. Isto inclui evitar interações em espaços da comunidade, bem como canais externos como as mídias sociais. A violação destes termos pode levar a um banimento temporário ou permanente.
+**Consequência**: Advertência com consequências para comportamento repetido. Não poderá haver interações com as pessoas envolvidas, incluindo interações não solicitadas com as pessoas que estiverem aplicando o Código de Conduta, por um período determinado.
+Isto inclui evitar interações em espaços da comunidade, bem como canais externos como as mídias sociais. A violação destes termos pode levar a um banimento temporário ou permanente.
 
 ### 3. Banimento Temporário
 
@@ -64,7 +65,6 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 **Consequência**: Banimento temporário de qualquer tipo de interação ou comunicação pública com a comunidade por um determinado período. Estarão proibidas as interações públicas ou privadas com as pessoas envolvidas, incluindo interações não solicitadas com as pessoas que estiverem aplicando o Código de Conduta. A violação destes termos pode resultar em um banimento permanente.
 
 ### 4. Banimento Permanente
-Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 2.1, disponível em (v2.1)[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html].
 
 **Impacto na comunidade**: Demonstrar um padrão na violação das normas da comunidade, incluindo a persistência do comportamento impróprio, assédio a uma pessoa ou agressão ou depreciação a classes de pessoas.
 
